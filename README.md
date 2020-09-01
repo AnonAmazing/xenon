@@ -4,5 +4,5 @@ Xenon is a input and output library for C/C++
 
 # TODO
 
-[*] Create the repo
-[ ] Add some code
+* [x] Create the repo
+* [ ] Add some code
