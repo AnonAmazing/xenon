@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## README ##
 # Xenon (Xe) - 0x0
 
@@ -22,4 +21,8 @@ Work is currently being done on Windows Subsystem for Linux
 
 * [x] Create the repo
 * [ ] Add some code
->>>>>>> 3bf317e24f954d0ce9585a567313af6bdfb57a72
+
+# Donations
+
+Donations will be very appreciated!
+Feel free to donate at <a href="https://flattr.com/@AnonAmazing">Flattr</a>. Thank you! :)
